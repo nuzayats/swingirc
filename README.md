@@ -6,5 +6,5 @@ You can talk with users in multiple channels simultaneously, But most of IRC cap
 
 # How To Launch
 
-`$ mvn compile`
-`$ mvn exec:java`
+    $ mvn compile
+    $ mvn exec:java
